@@ -1,1 +1,1 @@
-# team-chips
+# team-chips' ChipsWatch
